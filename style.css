@@ -185,3 +185,14 @@ header a {
     font-size: 18px;
     cursor: pointer;
 }
+
+/* FOOTER  */
+
+.footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
