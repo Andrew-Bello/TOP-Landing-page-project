@@ -70,7 +70,7 @@ header a {
 }
 
 .text {
-    flex-basis: 800px;
+    flex-basis: 660px;
 }
 
 .waves-img {
@@ -176,7 +176,7 @@ header a {
 }
 
 .cta-button {
-    border: 3px solid #f9faf8;
+    border: 2px solid #f9faf8;
     background-color: #3882f6;
     color: #f9faf8;
     flex-shrink: 0;
